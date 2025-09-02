@@ -1,0 +1,36 @@
+🚀 UPLOAD THESE FILES TO FIX RAILWAY DEPLOYMENT
+
+CRITICAL FILES TO UPLOAD TO GITHUB:
+=====================================
+
+1. cloud_demo_control.py ← NEW: Cloud-compatible demo controller
+2. railway.toml ← UPDATED: Points to new demo controller  
+3. Procfile ← UPDATED: Railway startup command
+4. RAILWAY_DEPLOY_TRIGGER.txt ← Forces Railway to redeploy
+
+UPLOAD INSTRUCTIONS:
+===================
+
+Option 1 - GitHub Web Upload:
+1. Go to: https://github.com/klub24-GH/btcusdt-advanced-backtesting
+2. Click "Add file" → "Upload files"  
+3. Drag these 4 files from Windows folder
+4. Commit message: "Fix Railway Cloud Demo"
+5. Click "Commit changes"
+
+Option 2 - Replace Files:
+1. Go to existing files on GitHub
+2. Click each file → Edit → Delete content
+3. Copy content from Windows files → Paste → Commit
+
+WHAT THIS FIXES:
+===============
+✅ Railway deployment will work with realistic demo data
+✅ Shows 120.34% Superior Strategy simulation  
+✅ Real-time updates every 3 seconds
+✅ No more "$0" values - live demo portfolio
+
+After upload, Railway auto-redeploys in 2-3 minutes!
+Your URL: https://profound-learning-production-b3e9.up.railway.app/
+
+🎯 Result: Working cloud demo with profitable strategy simulation!

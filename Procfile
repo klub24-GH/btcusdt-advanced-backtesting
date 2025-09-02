@@ -1,1 +1,1 @@
-web: python3 mobile_control_center.py
+web: python cloud_demo_control.py
