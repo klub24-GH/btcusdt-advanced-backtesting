@@ -1,0 +1,47 @@
+📁 PAPER TRADING SYSTEM - GOOGLE DRIVE UPLOAD LIST
+=======================================================
+
+Upload these files from the /production/ folder to Google Drive:
+
+🔧 CORE SYSTEM FILES (Required):
+✅ mobile_control_center.py
+✅ enhanced_paper_trading.py  
+✅ paper_trading_config.py
+✅ real_market_data_integration.py
+
+☁️ DEPLOYMENT FILES (Required for cloud hosting):
+✅ requirements.txt
+✅ Procfile  
+✅ railway.json
+✅ runtime.txt
+
+📖 DOCUMENTATION (Recommended):
+✅ README_DEPLOYMENT.md
+✅ deployment_guide.md
+✅ GOOGLE_DRIVE_UPLOAD_LIST.txt (this file)
+
+🎯 NOTION INTEGRATION (Optional - for Notion dashboard):
+⚪ notion_controller.py
+⚪ comprehensive_notion_integration.py  
+⚪ notion_dashboard_setup.py
+
+📊 WEB CONTROL ALTERNATIVES (Optional):
+⚪ web_control_center.py (requires FastAPI)
+⚪ simple_control_center.py (backup version)
+
+=======================================================
+TOTAL FILES TO UPLOAD: 11 files (7 required + 4 docs)
+=======================================================
+
+🚀 QUICK DEPLOY CHECKLIST:
+□ Download all files from Google Drive  
+□ Test locally: python3 mobile_control_center.py
+□ Choose platform: Railway (recommended) or Render
+□ Upload core files + deployment files
+□ Set start command: python3 mobile_control_center.py  
+□ Deploy and get your URL!
+
+📱 Your deployed app will be accessible at:
+https://your-app-name.railway.app (or similar)
+
+🛡️ 100% SAFE: All trading is paper/virtual - no real money at risk!

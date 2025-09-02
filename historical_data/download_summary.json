@@ -1,0 +1,31 @@
+{
+  "download_time": "2025-09-02T07:18:34.624367+00:00",
+  "total_candles": 4730,
+  "timeframes": {
+    "5m": {
+      "file": "historical_data/BTCUSDT_5m_30days.csv",
+      "candles": 1000,
+      "days": 30
+    },
+    "15m": {
+      "file": "historical_data/BTCUSDT_15m_60days.csv",
+      "candles": 1000,
+      "days": 60
+    },
+    "1h": {
+      "file": "historical_data/BTCUSDT_1h_180days.csv",
+      "candles": 1000,
+      "days": 180
+    },
+    "4h": {
+      "file": "historical_data/BTCUSDT_4h_365days.csv",
+      "candles": 1000,
+      "days": 365
+    },
+    "1d": {
+      "file": "historical_data/BTCUSDT_1d_730days.csv",
+      "candles": 730,
+      "days": 730
+    }
+  }
+}
