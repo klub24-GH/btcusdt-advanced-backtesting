@@ -2,17 +2,10 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "python cloud_demo_control.py"
+startCommand = "python simple_railway_demo.py"
 restartPolicyType = "on_failure"
 restartPolicyMaxRetries = 10
-
-[[services]]
-name = "btc-trading-system"
-
-[services.build]
-watchPatterns = ["**/*.py"]
 
 [services.variables]
 PYTHON_VERSION = "3.12"
 PORT = "8000"
-CLOUD_DEPLOYMENT = "true"

@@ -1,1 +1,1 @@
-web: python cloud_demo_control.py
+web: python simple_railway_demo.py
