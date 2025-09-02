@@ -1,0 +1,72 @@
+[
+  {
+    "strategy": "Mean Reversion (10, 1.5)",
+    "total_trades": 68,
+    "profitable_trades": 47,
+    "win_rate": 0.6911764705882353,
+    "total_return": 0.014463775591722896,
+    "avg_return": 0.00021270258223121907,
+    "best_trade": 0.0042870258257041724,
+    "worst_trade": -0.007940396384040293
+  },
+  {
+    "strategy": "Mean Reversion (20, 2)",
+    "total_trades": 24,
+    "profitable_trades": 15,
+    "win_rate": 0.625,
+    "total_return": 0.00740095610988712,
+    "avg_return": 0.00030837317124529667,
+    "best_trade": 0.004458490431147333,
+    "worst_trade": -0.011881640510664865
+  },
+  {
+    "strategy": "Momentum (5, 0.5%)",
+    "total_trades": 2,
+    "profitable_trades": 1,
+    "win_rate": 0.5,
+    "total_return": 0.004889087793461332,
+    "avg_return": 0.002444543896730666,
+    "best_trade": 0.00617683475666552,
+    "worst_trade": -0.001287746963204188
+  },
+  {
+    "strategy": "Scalping (3,8,0.3%)",
+    "total_trades": 1,
+    "profitable_trades": 1,
+    "win_rate": 1.0,
+    "total_return": 0.0031186092733119244,
+    "avg_return": 0.0031186092733119244,
+    "best_trade": 0.0031186092733119244,
+    "worst_trade": 0.0031186092733119244
+  },
+  {
+    "strategy": "Momentum (10, 1%)",
+    "total_trades": 1,
+    "profitable_trades": 0,
+    "win_rate": 0.0,
+    "total_return": -0.014664593857421939,
+    "avg_return": -0.014664593857421939,
+    "best_trade": -0.014664593857421939,
+    "worst_trade": -0.014664593857421939
+  },
+  {
+    "strategy": "Scalping (5,12,0.2%)",
+    "total_trades": 6,
+    "profitable_trades": 2,
+    "win_rate": 0.3333333333333333,
+    "total_return": -0.020793889762358797,
+    "avg_return": -0.0034656482937264663,
+    "best_trade": 0.001230232007066182,
+    "worst_trade": -0.010811282780758788
+  },
+  {
+    "strategy": "Momentum (3, 0.3%)",
+    "total_trades": 13,
+    "profitable_trades": 6,
+    "win_rate": 0.46153846153846156,
+    "total_return": -0.027351003818472826,
+    "avg_return": -0.002103923370651756,
+    "best_trade": 0.007362383087434139,
+    "worst_trade": -0.013420220978073502
+  }
+]

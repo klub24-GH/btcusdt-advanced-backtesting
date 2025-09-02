@@ -1,0 +1,51 @@
+# Production Trading System Configuration
+# BTCUSDT Ultra-Performance Trading System - Production Deployment
+
+trading:
+  pair: "BTCUSDT"
+  max_position_size: 0.1  # Maximum BTC position size
+  risk_limit_per_trade: 0.02  # 2% maximum risk per trade
+  max_daily_trades: 1000
+  emergency_stop_loss: 0.05  # 5% emergency stop loss
+  
+cluster:
+  nodes: 10  # Ultra-scale 10-node cluster
+  ultra_batch_size: 70  # Decisions per API call
+  target_dpm: 26597  # Target decisions per minute
+  cpu_affinity: true
+  numa_aware: true
+  
+market_data:
+  primary_source: "binance"
+  backup_sources: ["coinbase", "kraken"]
+  websocket_url: "wss://stream.binance.com:9443/ws/btcusdt@ticker"
+  api_url: "https://api.binance.com/api/v3"
+  reconnect_attempts: 5
+  data_timeout: 10  # seconds
+  
+security:
+  production_mode: true
+  max_drawdown: 0.10  # 10% maximum portfolio drawdown
+  position_size_limits: true
+  emergency_controls: true
+  audit_logging: true
+  
+monitoring:
+  metrics_interval: 60  # seconds
+  alert_threshold_dpm: 20000  # Alert if below 20K DPM
+  health_check_interval: 30
+  log_level: "INFO"
+  alerts_enabled: true
+  
+performance:
+  memory_pools: true
+  object_pooling: true
+  connection_pooling: 15  # connections per node
+  cache_size: 2000  # LRU cache entries
+  async_io: true
+  
+failover:
+  auto_failover: true
+  backup_nodes: 3
+  disaster_recovery: true
+  graceful_shutdown: true

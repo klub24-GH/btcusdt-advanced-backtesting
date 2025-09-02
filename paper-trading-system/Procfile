@@ -1,0 +1,1 @@
+web: python3 mobile_control_center.py

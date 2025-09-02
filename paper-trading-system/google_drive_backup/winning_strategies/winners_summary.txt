@@ -1,0 +1,95 @@
+🏆 WINNING STRATEGIES DATABASE
+Generated: 2025-09-02 07:43:32 UTC
+Total Winners: 15
+
+📊 TOP PERFORMERS:
+================================================================================
+ 1. Trend_Sensitive (1d)
+    💰 Profit Score: 0.621
+    📈 Return: +120.34%
+    🎯 Win Rate: 41.9%
+    ⚡ Sharpe: 3.69
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: EXTREMELY HIGH
+    📊 Allocation: 20.0%
+
+ 2. Trend_Sensitive (1d)
+    💰 Profit Score: 0.621
+    📈 Return: +120.34%
+    🎯 Win Rate: 41.9%
+    ⚡ Sharpe: 3.69
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: EXTREMELY HIGH
+    📊 Allocation: 20.0%
+
+ 3. RSI_Standard (1h)
+    💰 Profit Score: 0.494
+    📈 Return: +19.74%
+    🎯 Win Rate: 65.4%
+    ⚡ Sharpe: 4.26
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MODERATE
+    📊 Allocation: 10.0%
+
+ 4. RSI_Standard (1h)
+    💰 Profit Score: 0.494
+    📈 Return: +19.74%
+    🎯 Win Rate: 65.4%
+    ⚡ Sharpe: 4.26
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MODERATE
+    📊 Allocation: 10.0%
+
+ 5. RSI_Conservative (1h)
+    💰 Profit Score: 0.482
+    📈 Return: +11.82%
+    🎯 Win Rate: 64.3%
+    ⚡ Sharpe: 5.11
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MODERATE
+    📊 Allocation: 10.0%
+
+ 6. RSI_Conservative (1h)
+    💰 Profit Score: 0.482
+    📈 Return: +11.82%
+    🎯 Win Rate: 64.3%
+    ⚡ Sharpe: 5.11
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MODERATE
+    📊 Allocation: 10.0%
+
+ 7. Trend_Sensitive (4h)
+    💰 Profit Score: 0.480
+    📈 Return: +36.88%
+    🎯 Win Rate: 53.8%
+    ⚡ Sharpe: 3.21
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MEDIUM
+    📊 Allocation: 10.0%
+
+ 8. Trend_Sensitive (4h)
+    💰 Profit Score: 0.480
+    📈 Return: +36.88%
+    🎯 Win Rate: 53.8%
+    ⚡ Sharpe: 3.21
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MEDIUM
+    📊 Allocation: 10.0%
+
+ 9. Trend_Standard (4h)
+    💰 Profit Score: 0.471
+    📈 Return: +43.68%
+    🎯 Win Rate: 40.8%
+    ⚡ Sharpe: 2.92
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MEDIUM
+    📊 Allocation: 10.0%
+
+10. Trend_Standard (4h)
+    💰 Profit Score: 0.471
+    📈 Return: +43.68%
+    🎯 Win Rate: 40.8%
+    ⚡ Sharpe: 2.92
+    🛡️  Max DD: 0.0%
+    💼 Risk: LOW | Profit: MEDIUM
+    📊 Allocation: 10.0%

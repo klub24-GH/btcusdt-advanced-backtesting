@@ -1,0 +1,8 @@
+{
+  "build": {
+    "buildCommand": "echo 'No build required - using Python standard library only'"
+  },
+  "deploy": {
+    "startCommand": "python3 mobile_control_center.py"
+  }
+}
